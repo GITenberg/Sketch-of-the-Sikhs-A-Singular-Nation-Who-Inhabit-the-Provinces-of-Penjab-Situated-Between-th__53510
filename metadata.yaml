@@ -1,0 +1,26 @@
+_repo: Sketch-of-the-Sikhs-A-Singular-Nation-Who-Inhabit-the-Provinces-of-Penjab-Situated-Between-th__53510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malcolm, John
+    birthdate: 1769
+    deathdate: 1833
+    gutenberg_agent_id: '46717'
+    url: http://www.gutenberg.org/2009/agents/46717
+description: ''
+gutenberg_issued: '2016-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53510'
+  lccn: '05010755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Sikhs'
+- GITenberg
+title: "Sketch of the Sikhs\r\nA Singular Nation Who Inhabit the Provinces of Penjab,\
+  \ Situated Between the Rivers Jumna and Indus"
+url: http://www.gutenberg.org/ebooks/53510
